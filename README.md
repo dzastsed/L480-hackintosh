@@ -1,4 +1,4 @@
-# L480-mackintosh
+# L480-hackintosh
 
 Thinkpad L480 hackintosh pack, based on https://github.com/Crap-Mayur/Lenovo-Thinkpad-L480-Hackintosh-Opencore
 <img width="1424" alt="Screenshot 2023-12-23 at 13 27 06" src="https://github.com/dzastsed/L480-mackintosh/assets/63074962/b8264947-239f-4d5c-8dda-fd3070954cc7">
